@@ -22,9 +22,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsazibfarooq&show_icons=true&locale=en" alt="itsazibfarooq" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsazibfarooq&show_icons=true&locale=en&layout=compact" alt="itsazibfarooq" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsazibfarooq&show_icons=true&locale=en&layout=compact" alt="itsazibfarooq" /></p>
 
-<div></div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itsazibfarooq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsazibfarooq" height="30" width="40" /></a>
