@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Azib</h1>
+<h1 align="center">I'm Azib👋</h1>
 <h3 align="center">BREATHES CODE</h3>
 
 - 🔭 I’m currently working on [Personal Portfolio webapp](https://itsazib.co/)
