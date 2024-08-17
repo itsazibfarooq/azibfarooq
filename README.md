@@ -25,6 +25,14 @@
 ## Skill Set:
 
 <table><tr><td valign="top" width="25%">
+  
+### AI
+<a href="https://github.com/itsazibfarooq">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,opencv,numpy,pandas,matplotlib,pil,&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="25%">
 
 ### Frontend  
 <a href="https://github.com/itsazibfarooq">
@@ -41,14 +49,6 @@
 </div>
 </a>
 
-</td><td valign="top" width="25%">
-  
-### AI
-<a href="https://github.com/itsazibfarooq">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,numpy,opencv,pandas,matplotlib,pil,&perline=4" /> 
-</div>
-</a>
 </td>
 </tr>
 <tr><td valign="top" width="25%">
@@ -66,9 +66,9 @@
 
 ## Connect with me:
 <div align="center">
-    <a href="https://www.linkedin.com/in/itsazibfarooq/" target="_blank"><img src="https://img.shields.io/badge/-Tayyaba%20Tabassum-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a target="_blank" href="mailto:azibfarooq10@gmail.com"><img src="https://img.shields.io/badge/-tayyabadev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://leetcode.com/u/azibfarooq/" target="_blank"><img src="https://img.shields.io/badge/-Tayyaba%20Tabassum-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/itsazibfarooq/" target="_blank"><img src="https://img.shields.io/badge/Azib%20Farooq-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:azibfarooq10@gmail.com"><img src="https://img.shields.io/badge/-azibfarooq10@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/azibfarooq/" target="_blank"><img src="https://img.shields.io/badge/Azib%20Farooq-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
         <a href="https://medium.com/@azibfarooq10" target="_blank"><img src="https://img.shields.io/badge/-Medium Profile-3B5948?style=flat&logo=Medium&logoColor=white"/></a>
 </div>
 
