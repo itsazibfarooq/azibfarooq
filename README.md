@@ -1,37 +1,116 @@
-<h1 align="center">I'm Azib👋</h1>
-<h3 align="center">BREATHES CODE</h3>
+# Hi, I'm Tayyaba Tabassum 
 
-- 🔭 I’m currently working on [Personal Portfolio webapp](https://itsazib.co/)
+<pre>
+                                  ___           ___           ___       ___       ___     
+                                 /\__\         /\  \         /\__\     /\__\     /\  \    
+                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                 \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
 
-- 🌱 I’m currently learning **Machine Learning**
+## About Me:
 
-- 👯 I’m Open for **Research, Internships, Development Collaboration**
 
-- 👨‍💻 All of my projects are available at [https://itsazib.co/#projects](https://itsazib.co/#projects)
+- Actively participating in international events and hackathons. (International participation count 6+).
+- I am currently learning Data Structure And Algorithms in Cpp(I have solved 170 leet code problems till now).
+- Doing BSCS from NUML(4/4 CGPA).
+- I got selected for the Stanford code-in-place program and taught Python to international students.
+- Typing speed 80 WPM.
+- Won speed programming competition at Beacon House International College.
+- Won CS50x puzzle day(Solved all 9 out of 9 puzzles).
+- Topped on district level in IKLC(International Kangaroo Linguistic Contest).
+- Aspiring Full Stack developer(currently knows only frontend development).
+- Trainer @icodeguru(for data structures and algorithm)
+- I won the sac race at Punjab College (Both in FScI and FscII).
+- I like watching podcasts and playing games (Not on gadgets like mobile but in reality) and sports.
 
-- 📝 I regularly write articles on [https://medium.com/@azibfarooq10](https://medium.com/@azibfarooq10)
+## Skill Set:
 
-- 💬 Ask me about **ML | Full Stack Development | DSA**
+<table><tr><td valign="top" width="25%">
 
-- 📫 How to reach me **azibfarooq10@gmail.com**
+### Frontend  
+<a href="https://github.com/tayyabadev">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
+### Languages
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
+</div>
+</a>
 
-- ⚡ Fun fact **Can Play Chess ♟️♟️**
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" backgroundColor="white"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsazibfarooq&show_icons=true&locale=en" alt="itsazibfarooq" /></p>
+## Connect with me:
+<div align="center">
+    <a href="https://www.linkedin.com/in/tayyabadev/" target="_blank"><img src="https://img.shields.io/badge/-Tayyaba%20Tabassum-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:tayyabadev@gmail.com"><img src="https://img.shields.io/badge/-tayyabadev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/tayyabadev/" target="_blank"><img src="https://img.shields.io/badge/-Tayyaba%20Tabassum-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+    <a href="https://lablab.ai/u/@TayyadaDev" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
+        <a href="https://medium.com/@tayyabadev" target="_blank"><img src="https://img.shields.io/badge/-Medium Profile-3B5948?style=flat&logo=Medium&logoColor=white"/></a>
+</div>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsazibfarooq&show_icons=true&locale=en&layout=compact" alt="itsazibfarooq" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/itsazibfarooq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsazibfarooq" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/itsazibfarooq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsazibfarooq" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17925885/azib-farooq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17925885/azib-farooq" height="30" width="40" /></a>
-<a href="https://instagram.com/itsazibfarooq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsazibfarooq" height="30" width="40" /></a>
-<a href="https://medium.com/@azibfarooq10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@azibfarooq10" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/azib_10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="azib_10" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/azib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="azib" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/azibfarooq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azibfarooq" height="30" width="40" /></a>
+ ## Github Stats:
+<p align="center">
+    <a href="https://github.com/tayyabadev">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tayyabadev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tayyabadev&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
 </p>
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/tayyabadev">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=tayyabadev&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+  </a> 
+</p>
+
+
+ <p align="center">
+   <a href="https://github.com/tayyabadev"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyabadev&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+ </p>
+
+<br>
+
+<div id="header" align="center">
+  
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayyabadev" alt="tayyabadev" /></a> </p>
+  
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+  <img src="https://komarev.com/ghpvc/?username=tayyabdev&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
+#
+
+<!-- <div align="center">
+  <a href="https://github.com/tayyabadev">
+    <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
+  </a>
+ </div> -->
+
+
+
