@@ -59,7 +59,15 @@
        <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,&perline=4" /> 
 </div>
 </a>
- </td>
+</td><td valign="top" width="25%">
+
+### Languagess  
+<a href="https://github.com/itsazibfarooq">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,sql,&perline=4" /> 
+</div>
+</a>
+ </td> 
 </tr>
 </table>
 
@@ -69,7 +77,7 @@
     <a href="https://www.linkedin.com/in/itsazibfarooq/" target="_blank"><img src="https://img.shields.io/badge/Azib%20Farooq-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a target="_blank" href="mailto:azibfarooq10@gmail.com"><img src="https://img.shields.io/badge/-azibfarooq10@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://leetcode.com/u/azibfarooq/" target="_blank"><img src="https://img.shields.io/badge/Azib%20Farooq-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
-        <a href="https://medium.com/@azibfarooq10" target="_blank"><img src="https://img.shields.io/badge/-Medium Profile-3B5948?style=flat&logo=Medium&logoColor=white"/></a>
+        <a href="https://medium.com/@azibfarooq10" target="_blank"><img src="https://img.shields.io/badge/Azib Farooq-3B5948?style=flat&logo=Medium&logoColor=white"/></a>
 </div>
 
  ## Github Stats:
