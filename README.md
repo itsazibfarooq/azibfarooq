@@ -61,7 +61,7 @@
 </a>
 </td><td valign="top" width="25%">
 
-### Languagess  
+### Languages 
 <a href="https://github.com/itsazibfarooq">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,sql,&perline=4" /> 
